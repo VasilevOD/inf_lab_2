@@ -7,5 +7,6 @@ int main(void) {
             putchar(stroka);
         }
     }
+    return 0;
     
 }
