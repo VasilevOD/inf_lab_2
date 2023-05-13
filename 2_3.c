@@ -17,5 +17,7 @@ int main(void) {
             }
             count = 1;
         }
-    }  
+    }
+    return 0;
+    
 }
